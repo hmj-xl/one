@@ -35,7 +35,7 @@ export default {
 <style scoped>
 .el-header,
 .el-footer {
-  background-color: #b3c0d0;
+  background-color: #b3c0d3;
   color: #333;
   text-align: center;
   line-height: 60px;
